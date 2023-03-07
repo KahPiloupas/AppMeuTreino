@@ -16,6 +16,7 @@
 		571D140629B6B0F70021090C /* AppMeuTreinoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 571D140529B6B0F70021090C /* AppMeuTreinoTests.swift */; };
 		571D141029B6B0F70021090C /* AppMeuTreinoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 571D140F29B6B0F70021090C /* AppMeuTreinoUITests.swift */; };
 		571D141229B6B0F70021090C /* AppMeuTreinoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 571D141129B6B0F70021090C /* AppMeuTreinoUITestsLaunchTests.swift */; };
+		CB58391129B77F5800DAACCE /* TelaDeCriaçãoDeTreinos.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB58391029B77F5800DAACCE /* TelaDeCriaçãoDeTreinos.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		571D140B29B6B0F70021090C /* AppMeuTreinoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppMeuTreinoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		571D140F29B6B0F70021090C /* AppMeuTreinoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppMeuTreinoUITests.swift; sourceTree = "<group>"; };
 		571D141129B6B0F70021090C /* AppMeuTreinoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppMeuTreinoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CB58391029B77F5800DAACCE /* TelaDeCriaçãoDeTreinos.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "TelaDeCriaçãoDeTreinos.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				571D13F029B6B0F50021090C /* SceneDelegate.swift */,
 				571D13F229B6B0F50021090C /* ViewController.swift */,
 				571D13F429B6B0F50021090C /* Main.storyboard */,
+				CB58391029B77F5800DAACCE /* TelaDeCriaçãoDeTreinos.storyboard */,
 				571D13F729B6B0F70021090C /* Assets.xcassets */,
 				571D13F929B6B0F70021090C /* LaunchScreen.storyboard */,
 				571D13FC29B6B0F70021090C /* Info.plist */,
@@ -233,6 +236,7 @@
 			files = (
 				571D13FB29B6B0F70021090C /* LaunchScreen.storyboard in Resources */,
 				571D13F829B6B0F70021090C /* Assets.xcassets in Resources */,
+				CB58391129B77F5800DAACCE /* TelaDeCriaçãoDeTreinos.storyboard in Resources */,
 				571D13F629B6B0F50021090C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
