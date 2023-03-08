@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F5C214929B8C858009E5D89 /* Tela_11_Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F5C214829B8C858009E5D89 /* Tela_11_Home.swift */; };
+		3F5C214B29B8C894009E5D89 /* Tela_11_Home.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F5C214A29B8C894009E5D89 /* Tela_11_Home.storyboard */; };
+		3F5C214D29B8C962009E5D89 /* Tela_13_Treinos_Criacao.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F5C214C29B8C962009E5D89 /* Tela_13_Treinos_Criacao.swift */; };
+		3F5C215129B8C9A2009E5D89 /* Tela_13_Treinos_Criacao.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F5C215029B8C9A2009E5D89 /* Tela_13_Treinos_Criacao.storyboard */; };
+		3F5C215329B8CA07009E5D89 /* Tela_35_Calendario.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F5C215229B8CA07009E5D89 /* Tela_35_Calendario.swift */; };
+		3F5C215529B8CA26009E5D89 /* Tela_35_Calendario.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F5C215429B8CA26009E5D89 /* Tela_35_Calendario.storyboard */; };
+		3F5C215729B8CA56009E5D89 /* Tela_38_Ajustes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F5C215629B8CA56009E5D89 /* Tela_38_Ajustes.swift */; };
+		3F5C215929B8CA6C009E5D89 /* Tela_38_Ajustes.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F5C215829B8CA6C009E5D89 /* Tela_38_Ajustes.storyboard */; };
 		3F62D12A29B8C34D004D0BFE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F62D12929B8C34D004D0BFE /* AppDelegate.swift */; };
 		3F62D12C29B8C34D004D0BFE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F62D12B29B8C34D004D0BFE /* SceneDelegate.swift */; };
 		3F62D12E29B8C34D004D0BFE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F62D12D29B8C34D004D0BFE /* ViewController.swift */; };
@@ -37,6 +45,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3F5C214829B8C858009E5D89 /* Tela_11_Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tela_11_Home.swift; sourceTree = SOURCE_ROOT; };
+		3F5C214A29B8C894009E5D89 /* Tela_11_Home.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Tela_11_Home.storyboard; sourceTree = "<group>"; };
+		3F5C214C29B8C962009E5D89 /* Tela_13_Treinos_Criacao.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tela_13_Treinos_Criacao.swift; sourceTree = "<group>"; };
+		3F5C215029B8C9A2009E5D89 /* Tela_13_Treinos_Criacao.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Tela_13_Treinos_Criacao.storyboard; sourceTree = SOURCE_ROOT; };
+		3F5C215229B8CA07009E5D89 /* Tela_35_Calendario.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tela_35_Calendario.swift; sourceTree = SOURCE_ROOT; };
+		3F5C215429B8CA26009E5D89 /* Tela_35_Calendario.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Tela_35_Calendario.storyboard; sourceTree = SOURCE_ROOT; };
+		3F5C215629B8CA56009E5D89 /* Tela_38_Ajustes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tela_38_Ajustes.swift; sourceTree = SOURCE_ROOT; };
+		3F5C215829B8CA6C009E5D89 /* Tela_38_Ajustes.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Tela_38_Ajustes.storyboard; sourceTree = SOURCE_ROOT; };
 		3F62D12629B8C34D004D0BFE /* APP_Meu_Treino_Storyboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = APP_Meu_Treino_Storyboard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F62D12929B8C34D004D0BFE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3F62D12B29B8C34D004D0BFE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -105,6 +121,14 @@
 				3F62D12B29B8C34D004D0BFE /* SceneDelegate.swift */,
 				3F62D12D29B8C34D004D0BFE /* ViewController.swift */,
 				3F62D12F29B8C34D004D0BFE /* Main.storyboard */,
+				3F5C214829B8C858009E5D89 /* Tela_11_Home.swift */,
+				3F5C214A29B8C894009E5D89 /* Tela_11_Home.storyboard */,
+				3F5C214C29B8C962009E5D89 /* Tela_13_Treinos_Criacao.swift */,
+				3F5C215029B8C9A2009E5D89 /* Tela_13_Treinos_Criacao.storyboard */,
+				3F5C215429B8CA26009E5D89 /* Tela_35_Calendario.storyboard */,
+				3F5C215229B8CA07009E5D89 /* Tela_35_Calendario.swift */,
+				3F5C215829B8CA6C009E5D89 /* Tela_38_Ajustes.storyboard */,
+				3F5C215629B8CA56009E5D89 /* Tela_38_Ajustes.swift */,
 				3F62D13529B8C34E004D0BFE /* Assets.xcassets */,
 				3F62D13729B8C34E004D0BFE /* LaunchScreen.storyboard */,
 				3F62D13A29B8C34E004D0BFE /* Info.plist */,
@@ -234,8 +258,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F5C215929B8CA6C009E5D89 /* Tela_38_Ajustes.storyboard in Resources */,
 				3F62D13929B8C34E004D0BFE /* LaunchScreen.storyboard in Resources */,
+				3F5C214B29B8C894009E5D89 /* Tela_11_Home.storyboard in Resources */,
+				3F5C215529B8CA26009E5D89 /* Tela_35_Calendario.storyboard in Resources */,
 				3F62D13629B8C34E004D0BFE /* Assets.xcassets in Resources */,
+				3F5C215129B8C9A2009E5D89 /* Tela_13_Treinos_Criacao.storyboard in Resources */,
 				3F62D13129B8C34D004D0BFE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -262,8 +290,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F62D12E29B8C34D004D0BFE /* ViewController.swift in Sources */,
+				3F5C214D29B8C962009E5D89 /* Tela_13_Treinos_Criacao.swift in Sources */,
 				3F62D13429B8C34D004D0BFE /* APP_Meu_Treino_Storyboard.xcdatamodeld in Sources */,
 				3F62D12A29B8C34D004D0BFE /* AppDelegate.swift in Sources */,
+				3F5C214929B8C858009E5D89 /* Tela_11_Home.swift in Sources */,
+				3F5C215329B8CA07009E5D89 /* Tela_35_Calendario.swift in Sources */,
+				3F5C215729B8CA56009E5D89 /* Tela_38_Ajustes.swift in Sources */,
 				3F62D12C29B8C34D004D0BFE /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
